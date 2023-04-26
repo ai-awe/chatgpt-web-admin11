@@ -38,7 +38,7 @@
 ## 预览
 
 客户端
-![page1](https://user-images.githubusercontent.com/74414383/234602291-de09ed2a-96b0-4c7f-8944-e57b5d9e6ff8.png)
+![登录/注册](docs/page1.png)
 ![page2](https://user-images.githubusercontent.com/74414383/234602296-3da807bb-dc81-489c-b975-cde9b315778e.png)
 ![page3 5](https://user-images.githubusercontent.com/74414383/234602309-6bab25e6-7b54-42b2-b5de-f5e6b4fc42fa.png)
 ![page3](https://user-images.githubusercontent.com/74414383/234602325-5347cc32-53af-4b1c-8f3d-1e4c7cb6f3b4.png)
